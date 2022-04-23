@@ -67,9 +67,27 @@ button{
 }
 
 
+#button5 {
+    background: plum;
+}
+#button5:active, #button5.lit {
+    background:purple;
+}
+
+
+#button6 {
+    background: burlywood;
+}
+#button6:active, #button6.lit {
+    background:saddlebrown;
+}
+
+
 .hidden {
   display: none;
 }
+
+
 
 /* images and videos max out at full width */
 img,
