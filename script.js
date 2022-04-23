@@ -31,9 +31,9 @@ document.getElementById("stopBtn").classList.add("hidden");
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
+  1: 250.6,
+  2: 345.6,
+  3: 400.0,
   4: 466.2,
   5: 521.2,
   6: 550.3
