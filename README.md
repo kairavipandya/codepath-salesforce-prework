@@ -46,16 +46,21 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 HexCode. htmlcolorcodes, stackoverflow 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 A challenge I encountered when creating this submission was I had run into an error while making the 6th button. It has said, “the value id[button 6] must be unique. After looking it up on Stackoverflow, I was still unable to find a solution to this problem. Once I had reviewed the code again, I realized that I had put the same line of code at the top of the index.html. Another challenge I encountered was when I tried to add a ticking clock. I was able to add a timepiece that displays the progress, but I could not figure out a way for the program when the clock was complete. This led me to struggle quite a bit until I decided to save that till the end. Another part I had utterly worked with was when I had to write the conditional statements for the game logic. As I like to write down my code as I think about it, the dependent information I wrote was pretty close, but I could not increment the guesCouter. After looking at the example code provided by Codepoint, I understood where the guessCounter would be included in the code. 
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 Some question I have about web development is how do you make a choose your story games. Where based on your reply, there is a new scenario presented. I have been brought up with many games like that growing up, and I want to know how that would be made? I would also like to know how, if one error were to happen in Europe, it would affect the world wide web in the Americas. Web development can have a lot of pressure as many stores' incomes are based upon their website; how do marketing and advertising be implemented into Web Development. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
+
 If I had a few more hours to work on this website I would like to add the feature that would count how many you had right. As if like tick marks and making a check make after how many you have had correct. This way the player would be excited to see how far they can go as they can see their progress.  Another feature I would like to add is the feature to end the game after the clock where to finish, as I tried to complete it but was unable to. 
 
 
