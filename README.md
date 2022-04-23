@@ -39,7 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+
+1.Basic Feature
 ![](gif1-link-here)![](https://i.imgur.com/yUVVpZ5.gif)
+2.Optional Added Features
 ![](gif2-link-here)![](https://i.imgur.com/xPsRSLB.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
@@ -47,7 +50,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-HexCode. htmlcolorcodes, stackoverflow 
+HexCod, HTML ColorCodes, StackOverFlow 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
@@ -67,7 +70,7 @@ If I had a few more hours to work on this website I would like to add the featur
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://www.loom.com/share/c2699f6280cc4e2e9748486240c4769e
 
 
 ## License
