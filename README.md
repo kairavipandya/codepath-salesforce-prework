@@ -70,7 +70,7 @@ If I had a few more hours to work on this website I would like to add the featur
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording] https://www.loom.com/share/c2699f6280cc4e2e9748486240c4769e
+https://www.loom.com/share/c2699f6280cc4e2e9748486240c4769e
 
 
 ## License
